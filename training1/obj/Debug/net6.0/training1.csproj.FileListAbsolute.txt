@@ -1,0 +1,5 @@
+C:\Users\HUMBLE\Desktop\c# training\training1\obj\Debug\net6.0\training1.csproj.AssemblyReference.cache
+C:\Users\HUMBLE\Desktop\c# training\training1\obj\Debug\net6.0\training1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUMBLE\Desktop\c# training\training1\obj\Debug\net6.0\training1.AssemblyInfoInputs.cache
+C:\Users\HUMBLE\Desktop\c# training\training1\obj\Debug\net6.0\training1.AssemblyInfo.cs
+C:\Users\HUMBLE\Desktop\c# training\training1\obj\Debug\net6.0\training1.csproj.CoreCompileInputs.cache
